@@ -1,0 +1,120 @@
+C:\Users\Vaslot\source\repos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Vaslot\source\repos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaslot\source\repos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Vaslot\source\repos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Vaslot\source\repos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Vaslot\source\repos\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Vaslot\source\repos\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Vaslot\source\repos\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Vaslot\source\repos\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Vaslot\source\repos\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Vaslot\source\repos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Vaslot\source\repos\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Vaslot\source\repos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Vaslot\source\repos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Vaslot\source\repos\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Komp_\Desktop\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Komp_\Desktop\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Komp_\Desktop\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Komp_\Desktop\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Komp_\Desktop\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Komp_\Desktop\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Komp_\Desktop\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komp_\Desktop\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Komp_\Desktop\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Komp_\Desktop\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Komp_\Desktop\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Komp_\Desktop\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Komp_\Desktop\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Komp_\Desktop\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Komp_\Desktop\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Komp_\Desktop\исследов\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Komp_\Desktop\исследов\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Komp_\Desktop\исследов\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Komp_\Desktop\исследов\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Komp_\Desktop\исследов\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Komp_\Desktop\исследов\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Komp_\Desktop\исследов\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komp_\Desktop\исследов\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Komp_\Desktop\исследов\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Komp_\Desktop\исследов\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Komp_\Desktop\исследов\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Komp_\Desktop\исследов\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Komp_\Desktop\исследов\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Komp_\Desktop\исследов\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Komp_\Desktop\исследов\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Komp_\Desktop\текучка\исследование операций\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Komp_\Desktop\текучка\исследование операций\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Komp_\Desktop\текучка\исследование операций\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Komp_\Desktop\текучка\исследование операций\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Komp_\Desktop\текучка\исследование операций\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Komp_\Desktop\текучка\исследование операций\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Komp_\Desktop\текучка\исследование операций\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komp_\Desktop\текучка\исследование операций\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Komp_\Desktop\текучка\исследование операций\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Komp_\Desktop\текучка\исследование операций\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Komp_\Desktop\текучка\исследование операций\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Komp_\Desktop\текучка\исследование операций\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Komp_\Desktop\текучка\исследование операций\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Komp_\Desktop\текучка\исследование операций\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Komp_\Desktop\текучка\исследование операций\obj\Debug\net6.0\ref\ConsoleApp1.dll
+H:\исследование операций\bin\Debug\net6.0\ConsoleApp1.exe
+H:\исследование операций\bin\Debug\net6.0\ConsoleApp1.deps.json
+H:\исследование операций\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+H:\исследование операций\bin\Debug\net6.0\ConsoleApp1.dll
+H:\исследование операций\bin\Debug\net6.0\ConsoleApp1.pdb
+H:\исследование операций\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+H:\исследование операций\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\исследование операций\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\исследование операций\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+H:\исследование операций\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\исследование операций\obj\Debug\net6.0\ConsoleApp1.dll
+H:\исследование операций\obj\Debug\net6.0\refint\ConsoleApp1.dll
+H:\исследование операций\obj\Debug\net6.0\ConsoleApp1.pdb
+H:\исследование операций\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+H:\исследование операций\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\исследование операций\bin\Debug\net6.0\ConsoleApp1.exe
+E:\исследование операций\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\исследование операций\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\исследование операций\bin\Debug\net6.0\ConsoleApp1.dll
+E:\исследование операций\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\исследование операций\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\исследование операций\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\исследование операций\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\исследование операций\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\исследование операций\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\исследование операций\obj\Debug\net6.0\ConsoleApp1.dll
+E:\исследование операций\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\исследование операций\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\исследование операций\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\исследование операций\obj\Debug\net6.0\ref\ConsoleApp1.dll
+G:\4\исследование операций\bin\Debug\net6.0\ConsoleApp1.exe
+G:\4\исследование операций\bin\Debug\net6.0\ConsoleApp1.deps.json
+G:\4\исследование операций\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+G:\4\исследование операций\bin\Debug\net6.0\ConsoleApp1.dll
+G:\4\исследование операций\bin\Debug\net6.0\ConsoleApp1.pdb
+G:\4\исследование операций\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+G:\4\исследование операций\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\4\исследование операций\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\4\исследование операций\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+G:\4\исследование операций\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\4\исследование операций\obj\Debug\net6.0\ConsoleApp1.dll
+G:\4\исследование операций\obj\Debug\net6.0\refint\ConsoleApp1.dll
+G:\4\исследование операций\obj\Debug\net6.0\ConsoleApp1.pdb
+G:\4\исследование операций\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+G:\4\исследование операций\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\Код\исследование операций\bin\Debug\net6.0\ConsoleApp1.exe
+E:\Код\исследование операций\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\Код\исследование операций\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\Код\исследование операций\bin\Debug\net6.0\ConsoleApp1.dll
+E:\Код\исследование операций\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\Код\исследование операций\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Код\исследование операций\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Код\исследование операций\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Код\исследование операций\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\Код\исследование операций\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Код\исследование операций\obj\Debug\net6.0\ConsoleApp1.dll
+E:\Код\исследование операций\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\Код\исследование операций\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\Код\исследование операций\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\Код\исследование операций\obj\Debug\net6.0\ref\ConsoleApp1.dll
